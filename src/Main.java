@@ -59,6 +59,8 @@ public class Main {
         System.out.println("The Remainder using doubles of  " + doubleOperandA + " " + doubleOperandB +  "  is  " +
                 doubleModulo);
 
+        //Output
+
         int numKids = 2;
         System.out.println("I have " + numKids + " kids.");
         String rain = "yes";
